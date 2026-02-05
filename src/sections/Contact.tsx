@@ -7,17 +7,17 @@ const contactInfo = [
   {
     icon: MapPin,
     title: 'Alamat',
-    content: 'Jl. Kasih Karunia No. 123, Jakarta Selatan, 12345',
+    content: 'Jl Krakatau No 16 Medan',
   },
   {
     icon: Phone,
     title: 'Telepon',
-    content: '(021) 1234-5678',
+    content: '085177005557',
   },
   {
     icon: Mail,
     title: 'Email',
-    content: 'info@gerejakasihkarunia.org',
+    content: 'gkpskrakataumedan@gmail.com',
   },
   {
     icon: Clock,

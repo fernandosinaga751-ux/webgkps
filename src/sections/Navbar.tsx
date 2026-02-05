@@ -45,7 +45,7 @@ export default function Navbar() {
                 isScrolled ? 'text-amber-900' : 'text-white'
               }`}
             >
-              Gereja Kasih Karunia
+              Gereja Kristen Prostestan Simalungun (GKPS)
             </span>
           </a>
 
